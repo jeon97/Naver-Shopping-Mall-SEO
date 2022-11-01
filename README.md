@@ -8,3 +8,6 @@ This data set is crawled from naver shopping mall (https://shopping.naver.com/ho
 - Target keyword : 청바지(jean), 제철과일(seasonal fruit)
 
 - Date : 2021.04.01 ~ 2022.08.01
+
+- Data columns
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/44390275/199186507-7ce311f4-80a1-48b1-a668-bb723173f6e3.png">
