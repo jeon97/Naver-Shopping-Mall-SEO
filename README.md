@@ -1,7 +1,7 @@
 # Naver-Shopping-Mall-SEO
 
 # DATA SET
-Data Download : https://www.dropbox.com/s/n0ekoi3ekh0sm40/seo_keyword_table.csv?dl=0
+Data set Download : https://www.dropbox.com/s/n0ekoi3ekh0sm40/seo_keyword_table.csv?dl=0
 
 This data set is crawled from naver shopping mall (https://shopping.naver.com/home)
  
