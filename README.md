@@ -11,3 +11,9 @@ This data set is crawled from naver shopping mall (https://shopping.naver.com/ho
 
 - Data columns
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/44390275/199186507-7ce311f4-80a1-48b1-a668-bb723173f6e3.png">
+
+- Data example
+<img width="1394" alt="image" src="https://user-images.githubusercontent.com/44390275/199186786-284f303b-cbf0-493d-9b2a-951d5c54e6f0.png">
+
+- Also you can see in the website
+- Website : http://j2jung.cafe24.com/DySEO/seo_index.php
